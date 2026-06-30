@@ -116,12 +116,12 @@ Use seasonal trends to plan marketing campaigns.
 Monitor business performance using the Power BI dashboard.
 
 🚀 Skills Demonstrated
-Data Cleaning
-Data Preprocessing
-Exploratory Data Analysis (EDA)
-SQL Query Writing
-Database Management
-Power BI Dashboard Development
-Data Visualization
-Business Intelligence
+Data Cleaning,
+Data Preprocessing,
+Exploratory Data Analysis (EDA),
+SQL Query Writing,
+Database Management,
+Power BI Dashboard Development,
+Data Visualization,
+Business Intelligence,
 Data Analytics
