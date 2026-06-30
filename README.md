@@ -114,33 +114,7 @@ Offer personalized discounts to repeat customers.
 Improve low-rated products using customer feedback.
 Use seasonal trends to plan marketing campaigns.
 Monitor business performance using the Power BI dashboard.
-📷 Dashboard Preview
 
-Add your Power BI dashboard screenshot here.
-
-![Dashboard](images/dashboard.png)
-📁 Project Structure
-Customer-Shopping-Behavior-Analysis/
-│
-├── Dataset/
-│   └── customer_shopping_behavior.csv
-│
-├── Python/
-│   └── Customer_Shopping_Analysis.ipynb
-│
-├── SQL/
-│   └── customer_analysis_queries.sql
-│
-├── PowerBI/
-│   └── Customer_Shopping_Dashboard.pbix
-│
-├── Images/
-│   └── dashboard.png
-│
-├── Report/
-│   └── Customer_Shopping_Behavior_Analysis_Report.pdf
-│
-└── README.md
 🚀 Skills Demonstrated
 Data Cleaning
 Data Preprocessing
